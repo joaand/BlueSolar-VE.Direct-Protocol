@@ -6,6 +6,7 @@ Reads all the data from the serial port, does checksum calculation and displays 
 I am using TXS0108E
 
 Should support all BlueSolar Devices
+
 Tested on MPPT 75|10
 
 If it works on your device, let me know
